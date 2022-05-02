@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 
 ROCK = 'rock'
@@ -47,3 +48,11 @@ class Player:
                 return 'win'
 
             
+=======
+Rock = 'r'
+Paper = 'p'
+Scissors = 's'
+
+class Player:
+    pass
+>>>>>>> master
