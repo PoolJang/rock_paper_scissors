@@ -45,3 +45,5 @@ class Player:
             else:
                 self.num_wins += 1
                 return 'win'
+
+            
